@@ -11,7 +11,7 @@ namespace Ornek.Controllers
         // GET: Personel
         public ActionResult Index()
         {
-            int x=5;
+            int x=3;
             return View();
         }
     }
